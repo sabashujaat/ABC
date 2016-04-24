@@ -1,3 +1,7 @@
 abcde
+<<<<<<< HEAD
 hello world
 hqkql
+=======
+nwmw,w
+>>>>>>> 99d6f74a79eb6353eb8077d6f941c4fef708b461
